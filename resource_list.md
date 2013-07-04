@@ -6,6 +6,8 @@
 
 [Technology Enhanced Learning Thesaurus & Dictionary](http://www.tel-thesaurus.net/)
 
+[The Glossary of Education Reform for Journalists](http://edglossary.org)
+
 [History of Virtual Learning Environments](http://en.wikipedia.org/wiki/History_of_virtual_learning_environments)
 
 [Don't Know Much About History (of Education)](http://hackeducation.com/2012/11/01/history-of-education-khan-academy/)
