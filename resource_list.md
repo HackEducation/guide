@@ -4,6 +4,8 @@
 
 [Learning Theories, Mapped](http://cmapspublic3.ihmc.us/rid=1LGVGJY66-CCD5CZ-12G3/Learning%20Theory.cmap)
 
+[The Myth of Learning Styles](http://www.changemag.org/Archives/Back%20Issues/September-October%202010/the-myth-of-learning-full.html)
+
 [Technology Enhanced Learning Thesaurus & Dictionary](http://www.tel-thesaurus.net/)
 
 [The Glossary of Education Reform for Journalists](http://edglossary.org)
