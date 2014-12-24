@@ -3,9 +3,9 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Hack Education Ed-Tech Guide"
+title: "Ed-Tech Guide"
 description: > # this means to ignore newlines until "email:"
-   The History of the Future of Education Technology
+   A Hack Education Project
 
 email: mail@audreywatters.com
 #blog logo
